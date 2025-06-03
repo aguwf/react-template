@@ -1,5 +1,7 @@
 # React + TypeScript + Vite
 
+# Link github page: https://aguwf.github.io/react-template/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
